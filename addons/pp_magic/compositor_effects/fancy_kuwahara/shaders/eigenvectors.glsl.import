@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bfn30c2uugq7n"
+path="res://.godot/imported/eigenvectors.glsl-a07e98d268b84ba5bc3384f963bbb821.res"
+
+[deps]
+
+source_file="res://addons/pp_magic/compositor_effects/fancy_kuwahara/shaders/eigenvectors.glsl"
+dest_files=["res://.godot/imported/eigenvectors.glsl-a07e98d268b84ba5bc3384f963bbb821.res"]
+
+[params]
+
