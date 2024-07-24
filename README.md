@@ -1,5 +1,5 @@
 # PPMagic
-Godot post processing effects using the new CompositorEffect stack in 5.3
+Godot post processing effects using the new CompositorEffect stack in 4.3
 
 DISCLAIMER: I'm not a graphics programmer by any means, so this might be unoptimized/doing weird things. I'm just sharing this because it looks cool, and there's very little resources on this new system in Godot.
 
