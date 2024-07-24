@@ -15,16 +15,13 @@ Put the pp_magic folder into the res://addons folder of your project
 * Select New FancyKuwahara
 * Play with parameters to your liking - Note: The Kuwahara Radius can make this shader quite heavy, as the render time grows exponentially with the radius.
 # Screenshots
-They're intentionally not fullscreen, so you can see the settings used for each of them
+They're intentionally not fullscreen, so you can see the settings used
+## Photo Examples 
+On a quad in Godot, because the effect works best on high detail scenes, that I currently don't have :( 3D scene examples further down
+
+![image1](https://i.ibb.co/bm5Jcgf/photo4.png)
+![image2](https://i.ibb.co/L1y5LMp/photo1.png)
 ## Game Scene Examples
 ![image1](https://i.ibb.co/bPgLMd5/spaceship-high-alpha1.png)
 ![image2](https://i.ibb.co/718m2wc/spaceship-low-alpha1.png)
-![image3](https://i.ibb.co/KXB36dF/spaceship-low-alpha2.png)
-![image4](https://i.ibb.co/mXCt3yt/spaceship-foliage1.png)
-![image5](https://i.ibb.co/WGyYWvf/spaceship-high-alpha2.png)
-## Photo Examples(I don't have a good showcase scene, so this is just photos on a quad in Godot...)
-![image1](https://i.ibb.co/L1y5LMp/photo1.png)
-![image2](https://i.ibb.co/Fn4zQ1h/photo2.png)
-![image3](https://i.ibb.co/7RPtjnx/photo3.png)
-![image4](https://i.ibb.co/bm5Jcgf/photo4.png)
-![image5](https://i.ibb.co/J3QBKK4/photo5.png)
+![image3](https://i.ibb.co/WGyYWvf/spaceship-high-alpha2.png)
